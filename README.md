@@ -1,6 +1,6 @@
 # ton-swap
 
-CLI tool for swapping tokens on the TON blockchain. Queries StonFi and DeDust pools in real time, compares rates, and executes on the one with the best output. Supports all major TON tokens, configurable slippage, and can run unattended on a schedule.
+Swap TON tokens at the best rate available — no exchange account, no KYC, no withdrawal fees. ton-swap queries StonFi and DeDust pools in real time and automatically executes on the one with the highest output. Your keys never leave your machine, slippage is configurable, and the whole thing runs from a single command — or unattended on a cron schedule.
 
 ## Setup
 

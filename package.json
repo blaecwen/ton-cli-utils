@@ -1,0 +1,16 @@
+{
+  "name": "ton-swap",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "swap": "node swap.js"
+  },
+  "dependencies": {
+    "@dedust/sdk": "0.8.7",
+    "@ston-fi/sdk": "2.7.0",
+    "@ton/crypto": "3.3.0",
+    "@ton/ton": "16.2.2",
+    "node-fetch": "3.3.2"
+  }
+}
